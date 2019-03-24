@@ -1,2 +1,3 @@
-# react-native-typescript-starter-kit
-react-native-typescript-starter-kit
+# React-Native-Typescript Starter Kit
+
+A React Native starter kit with Typescript setup. 
